@@ -971,6 +971,11 @@
                       </Layout>
                       <SubComponents>
                         <Component class="javax.swing.JButton" name="btnPastelZanahoria">
+                          <Properties>
+                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                              <Image iconType="2" name="C:\Users\giany\Documents\UTP\2024- Ciclo 6\2024- Ciclo 6\Sistemas - Software\proyecto-integrador-c6\src\imagenes\carrot_cake.png"/>
+                            </Property>
+                          </Properties>
                           <Events>
                             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPastelZanahoriaActionPerformed"/>
                           </Events>
@@ -1019,6 +1024,11 @@
                       </Layout>
                       <SubComponents>
                         <Component class="javax.swing.JButton" name="btnPastelMaracuya">
+                          <Properties>
+                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                              <Image iconType="2" name="C:\Users\giany\Documents\UTP\2024- Ciclo 6\2024- Ciclo 6\Sistemas - Software\proyecto-integrador-c6\src\imagenes\cheescake_maracuya.png"/>
+                            </Property>
+                          </Properties>
                           <Events>
                             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPastelMaracuyaActionPerformed"/>
                           </Events>
@@ -1070,6 +1080,11 @@
                       </Layout>
                       <SubComponents>
                         <Component class="javax.swing.JButton" name="btnPastelChocolate">
+                          <Properties>
+                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                              <Image iconType="2" name="C:\Users\giany\Documents\UTP\2024- Ciclo 6\2024- Ciclo 6\Sistemas - Software\proyecto-integrador-c6\src\imagenes\pastel_chocolate.png"/>
+                            </Property>
+                          </Properties>
                           <Events>
                             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPastelChocolateActionPerformed"/>
                           </Events>
@@ -1146,6 +1161,11 @@
                       </Layout>
                       <SubComponents>
                         <Component class="javax.swing.JButton" name="btnPastelCentral">
+                          <Properties>
+                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                              <Image iconType="2" name="C:\Users\giany\Documents\UTP\2024- Ciclo 6\2024- Ciclo 6\Sistemas - Software\proyecto-integrador-c6\src\imagenes\pastel_central.2xd.jpg"/>
+                            </Property>
+                          </Properties>
                           <Events>
                             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPastelCentralActionPerformed"/>
                           </Events>
@@ -1192,6 +1212,11 @@
                       </Layout>
                       <SubComponents>
                         <Component class="javax.swing.JButton" name="btnPastelFresa">
+                          <Properties>
+                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                              <Image iconType="2" name="C:\Users\giany\Documents\UTP\2024- Ciclo 6\2024- Ciclo 6\Sistemas - Software\proyecto-integrador-c6\src\imagenes\pastel_portada.jpg"/>
+                            </Property>
+                          </Properties>
                           <Events>
                             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPastelFresaActionPerformed"/>
                           </Events>
@@ -1241,6 +1266,11 @@
                       </Layout>
                       <SubComponents>
                         <Component class="javax.swing.JButton" name="btnPastelVelvet">
+                          <Properties>
+                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                              <Image iconType="2" name="C:\Users\giany\Documents\UTP\2024- Ciclo 6\2024- Ciclo 6\Sistemas - Software\proyecto-integrador-c6\src\imagenes\red_velvet.png"/>
+                            </Property>
+                          </Properties>
                           <Events>
                             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPastelVelvetActionPerformed"/>
                           </Events>
